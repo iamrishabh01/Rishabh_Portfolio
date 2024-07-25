@@ -12,7 +12,7 @@ I'm Rishabh , I Worked as a Data Analyst with a knack for transforming raw data 
 
 # Projects
 
-# 1.[Sales and Finance Report] (https://github.com/iamrishabh01/Sales_And_Finance_Report)
+# 1.[Sales and Finance Report](https://github.com/iamrishabh01/Sales_And_Finance_Report)
 
 About this project
 
