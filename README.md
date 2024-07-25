@@ -10,7 +10,7 @@ SQL Power Bi Excel Problem Solving Project Management Critical Thinking Stakehol
 
 # Projects
 
-# Sales and Finance Report 
+# 1.Sales and Finance Report 
 
 About this project
 
@@ -36,7 +36,7 @@ Developed 10+ new measures and columns using DAX, including Net Sales, Gross Mar
 Applied Conditional Formatting to enhance data presentation, highlighting key information, identifying trends, and improving overall data readability for effective analysis.
 
 
-# Freshco Hypermarket Analysis
+# 2.Freshco Hypermarket Analysis
 
 I completed an in-depth analysis project on Freshco Hypermarket's home delivery service in HSR, Bangalore. Here are some of the key highlights:
 
