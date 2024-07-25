@@ -6,7 +6,9 @@ I'm Rishabh , I Worked as a Data Analyst with a knack for transforming raw data 
 
 # Skills
 
-SQL Power Bi Excel Problem Solving Project Management Critical Thinking Stakeholder Management Strategic Planning 
+**SQL**  **Power Bi**  **Excel** 
+**Problem Solving**  **Project Management** 
+**Critical Thinking**  **Stakeholder Management**  **Strategic Planning** 
 
 # Projects
 
