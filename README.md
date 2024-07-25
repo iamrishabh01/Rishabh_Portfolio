@@ -25,5 +25,8 @@ About this project
 
 Leveraged detailed transaction data from Freshco Hypermarket's home delivery service to generate actionable insights through robust order and delivery analytics. Enabled Freshco with data-driven strategies, demonstrating proficiency in data collection, analysis, and visualization to optimize delivery operations, enhance customer satisfaction, and drive business growth. Key techniques used include Power Query, Power Pivot, and DAX for user-centric report design, ensuring informed decision-making and strategic market expansion.
 
+# 3.[Food E-Commerce Analysis]
 
+About This Project
 
+Developed an advanced Excel dashboard for a leading food e-commerce company's analytics team, designed to support data-driven decision-making. Compiled and analyzed order-level data to calculate key business metrics including Average Order Value (AOV), Discount Percentage, Average Rating, and Average Delivery Time. The dashboard features four interconnected sheets: Overall Numbers, City-wise Dashboard, Restaurant-wise Dashboard, and Report to Manager. Each sheet is equipped with slicers for dynamic city and restaurant selection, providing a comprehensive and interactive view of performance metrics. This solution empowers stakeholders to gain insights and make informed decisions efficiently.
