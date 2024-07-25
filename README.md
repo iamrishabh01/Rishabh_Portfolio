@@ -10,7 +10,7 @@ SQL Power Bi Excel Problem Solving Project Management Critical Thinking Stakehol
 
 # Projects
 
-# 1.Sales and Finance Report 
+# 1.[Sales and Finance Report] (https://github.com/iamrishabh01/Sales_And_Finance_Report)
 
 About this project
 
