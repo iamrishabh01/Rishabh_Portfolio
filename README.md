@@ -25,7 +25,7 @@ About this project
 
 Leveraged detailed transaction data from Freshco Hypermarket's home delivery service to generate actionable insights through robust order and delivery analytics. Enabled Freshco with data-driven strategies, demonstrating proficiency in data collection, analysis, and visualization to optimize delivery operations, enhance customer satisfaction, and drive business growth. Key techniques used include Power Query, Power Pivot, and DAX for user-centric report design, ensuring informed decision-making and strategic market expansion.
 
-# 3.[Food E-Commerce Analysis]
+# 3.[Food E-Commerce Analysis](https://github.com/iamrishabh01/food-e-commerce-/tree/main)
 
 About This Project
 
