@@ -30,3 +30,8 @@ Leveraged detailed transaction data from Freshco Hypermarket's home delivery ser
 About This Project
 
 Developed an advanced Excel dashboard for a leading food e-commerce company's analytics team, designed to support data-driven decision-making. Compiled and analyzed order-level data to calculate key business metrics including Average Order Value (AOV), Discount Percentage, Average Rating, and Average Delivery Time. The dashboard features four interconnected sheets: Overall Numbers, City-wise Dashboard, Restaurant-wise Dashboard, and Report to Manager. Each sheet is equipped with slicers for dynamic city and restaurant selection, providing a comprehensive and interactive view of performance metrics. This solution empowers stakeholders to gain insights and make informed decisions efficiently.
+
+# 4.[HR Analytics](https://github.com/iamrishabh01/HR-Analytics)
+
+About This Project
+Generated actionable insights via robust HR analytics within a leading organization. Enabled HR stakeholders with data-driven strategies by creating a comprehensive Power BI dashboard. Showcased proficiency in data aggregation, visualization, and interactive report design, covering critical metrics such as Presence %, WFH %, and Sick Leave %. The dashboard included dynamic views of attendance trends over time and by day of the week, facilitating optimal decision-making and strategic HR planning for improved workforce management and efficiency.
