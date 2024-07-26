@@ -34,4 +34,5 @@ Developed an advanced Excel dashboard for a leading food e-commerce company's an
 # 4.[HR Analytics](https://github.com/iamrishabh01/HR-Analytics)
 
 About This Project
+
 Generated actionable insights via robust HR analytics within a leading organization. Enabled HR stakeholders with data-driven strategies by creating a comprehensive Power BI dashboard. Showcased proficiency in data aggregation, visualization, and interactive report design, covering critical metrics such as Presence %, WFH %, and Sick Leave %. The dashboard included dynamic views of attendance trends over time and by day of the week, facilitating optimal decision-making and strategic HR planning for improved workforce management and efficiency.
