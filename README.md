@@ -53,3 +53,8 @@ Generated actionable insights through advanced financial analytics for a leading
 # Author:
   + Name: Rishabh Pal
   + Email:rishabh.pal.rcc390@gmail.com
+
+# Social Links:
+
+ + github:"https://iamrishabh01.github.io/Rishabh_Portfolio/"
+ + linkedin:"www.linkedin.com/in/rishabhpal01"
