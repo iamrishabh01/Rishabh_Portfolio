@@ -42,3 +42,9 @@ Generated actionable insights via robust HR analytics within a leading organizat
 About This Project
 
 Generated actionable insights through advanced sales analytics for a leading organization. Enabled sales stakeholders with data-driven strategies by creating a comprehensive, automated Power BI dashboard. Demonstrated proficiency in data aggregation, visualization, and interactive report design, covering critical metrics such as sales performance, revenue trends, and profitability. The dashboard included dynamic views of sales order insights, performance metrics, and cost-saving opportunities, facilitating optimal decision-making and strategic planning for improved sales efficiency and effectiveness.
+
+
+# 6.[Finance Analytics]
+About This Project
+
+Generated actionable insights through advanced financial analytics for a leading organization. Enabled finance stakeholders with data-driven strategies by creating a comprehensive, automated Power BI dashboard. Demonstrated proficiency in data aggregation, visualization, and interactive report design, covering critical metrics such as Expenses with respect to components, Savings with respect to components, and key performance indicators (KPIs) including Saving %, Saving, Income, Expenses, Income monthly growth, Expense monthly growth, Expenses vs. Saving, and Saving monthly growth. The dashboard included dynamic views of financial trends and performance metrics, facilitating optimal decision-making and strategic planning for improved financial efficiency and effectiveness.
