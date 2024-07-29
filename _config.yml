@@ -1,6 +1,6 @@
 title: My Portfolio
 description: This is my personal portfolio site.
-theme: minima
+theme: jekyll-theme-minimal
 url: "https://iamrishabh01.github.io/Rishabh_Portfolio/" 
 baseurl: "/"
 author:
