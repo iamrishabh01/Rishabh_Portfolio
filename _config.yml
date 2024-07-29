@@ -2,3 +2,7 @@ title: My Portfolio
 description: This is my personal portfolio site.
 theme: theme: jekyll-theme-architect
 url: "https://iamrishabh01.github.io/Rishabh_Portfolio/"
+baseurl: "/"
+author:
+  name: Your Name
+  email: your.email@example.com
