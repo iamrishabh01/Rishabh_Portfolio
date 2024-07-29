@@ -1,18 +1,20 @@
 title: My Portfolio
 description: This is my personal portfolio site.
 theme: jekyll-theme-minimal
-url: "https://iamrishabh01.github.io/Rishabh_Portfolio/" 
+url: "https://iamrishabh01.github.io/Rishabh_Portfolio/"
 baseurl: "/"
+
 author:
   name: Rishabh Pal
   email: rishabh.pal.rcc390@gmail.com
 
-# Social Links
 social_links:
-  github: "https://iamrishabh01.github.io/Rishabh_Portfolio/" 
-  linkedin: "www.linkedin.com/in/rishabhpal01"
+  twitter: your_twitter_username
+  github: iamrishabh01
+  linkedin:"www.linkedin.com/in/rishabhpal01"
 
 # Google Analytics
+google_analytics: UA-XXXXXXXX-X
 
 
 # Other settings
