@@ -52,4 +52,4 @@ Generated actionable insights through advanced financial analytics for a leading
 
 # Author:
   + Name: Rishabh Pal
-  + [![Email](https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white)](rishabh.pal.rcc390@gmail.com)
+  + Email:rishabh.pal.rcc390@gmail.com
